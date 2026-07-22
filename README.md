@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a dedicated MERN Stack Developer who builds dynamic, secure, and high-performance web applications. 
+ MERN Stack Developer who builds dynamic, secure, and high-performance web applications. 
 I specialize in MongoDB, Express.js, React, and Node.js, crafting end-to-end solutions with clean architecture and production-ready code.<br><br>I work with modern tools like TypeScript, Redux Toolkit and socket.io to handle complex state management, real-time features, and scalable APIs. My development approach is ensuring strong authentication flows, role-based access, and robust backend architectures.<br><br>I enjoy collaborating on innovative projects, contributing to open-source, and constantly learning new technologies to stay ahead in the MERN ecosystem.<br>Let’s collaborate and build something impactful together! 🚀
 
 
